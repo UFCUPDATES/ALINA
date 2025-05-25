@@ -1,4 +1,4 @@
-# MODE BY - RISHU SANATANI
+# MODE BY - HEART BEAT 
 
 class Helper(object):
     HELP_M = '''```
@@ -33,7 +33,7 @@ class Helper(object):
 ❍ /ask ➠ ǫυєʀɪєs ᴛʜє ᴧɪ ϻσᴅєʟ ᴛσ ɢєᴛ ᴧ ʀєsᴘσηsє ᴛσ ʏσυʀ ǫυєsᴛɪση
 
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
 '''
 
 
@@ -47,7 +47,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /google ᴘʏʀσɢʀᴧϻ : ʀєᴛυʀη ᴛσᴘ 5 ʀєυsʟᴛs ```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
 '''
 
     HELP_03 = '''```
@@ -58,7 +58,7 @@ class Helper(object):
 
 ❍ /tts : [ᴛєxᴛ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
 '''
 
 
@@ -68,7 +68,7 @@ class Helper(object):
 ❍ /info : ɢєᴛ ɪηғσʀϻᴧᴛɪση ᴧʙσυᴛ ᴧ υsєʀ.
 ❍ /github <υsєʀηᴧϻє> : ɢєᴛ ɪηғσʀϻᴧᴛɪση ᴧʙσυᴛ ᴧ ɢɪᴛʜυʙ υsєʀ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
 '''
 
 
@@ -79,9 +79,9 @@ class Helper(object):
 
 ❍ /font [ᴛєxᴛ]**
 ```
-❖ єxᴧϻᴘʟє : /font ```
+❖ єxᴧϻᴘʟє : /font Sachin Sanatani```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
 '''
 
     HELP_06 = '''```
@@ -89,7 +89,7 @@ class Helper(object):
 
 **❍ /math ➠ sσʟᴠєs ϻᴧᴛʜєϻᴧᴛɪᴄᴧʟ ᴘʀσʙʟєϻs ᴧηᴅ ǫυᴧᴛɪσηs
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
 '''
 
 
@@ -117,7 +117,7 @@ class Helper(object):
 ❍ /vctag ➠ ᴠσɪᴄє ᴄʜᴧᴛ ɪηᴠɪᴛє ᴛᴧɢ 
 ❍ /vcstop ⇴ sᴛσᴘ ᴛᴧɢ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
 '''
 
 
@@ -128,7 +128,7 @@ class Helper(object):
 ❍ /image ➠ sєᴧʀᴄʜєs ғσʀ ᴧη ɪϻᴧɢє ʙᴧsєᴅ ση ᴧ ɢɪᴠєη ᴋєʏᴡσʀᴅ.
 ❍ /upscale ➠ ʀєᴘʟʏ ᴛσ ᴧη ɪϻᴧɢє ᴛσ υᴘsᴄᴧʟє ɪᴛ ᴧηᴅ ɪϻᴘʀσᴠє ɪᴛs ǫυᴧʟɪᴛʏ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
 '''
 
 
@@ -142,7 +142,7 @@ class Helper(object):
 
 ❍ /hastag : [ᴛєxᴛ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
 '''
 
 
@@ -152,7 +152,7 @@ class Helper(object):
 **❍ /packkang ➠ ᴄʀєᴧᴛєs ᴧ ᴘᴧᴄᴋ σғ sᴛɪᴄᴋєʀs ғʀσϻ ᴧ σᴛʜєʀ ᴘᴧᴄᴋ
 ❍ /stickerid ➠ ɢєᴛs ᴛʜє sᴛɪᴄᴋєʀ ɪᴅ σғ ᴧ sᴛɪᴄᴋєʀ
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
 '''
 
 
@@ -177,7 +177,7 @@ class Helper(object):
 ❍ /boobs [ᴄʜєᴄᴋ ʏσυʀ ʙσσʙɪєs sɪᴢє]
 ❍ /dick [ᴄʜєᴄᴋ ʏσυʀ ᴅɪᴄᴋ sɪᴢє]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
 '''
 
 
@@ -189,7 +189,7 @@ class Helper(object):
 ❍ /q : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє
 ❍ /q r : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє ᴡɪᴛʜ ʀєᴘʟʏ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
 '''
 
 
@@ -201,7 +201,7 @@ class Helper(object):
 ❍ /truth : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ
 ❍ /dare : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
 '''
 
 
@@ -230,7 +230,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
 '''
 
     HELP_15 = '''```
@@ -239,7 +239,7 @@ class Helper(object):
 **❍ /kick <userhandle> : ᴋɪᴄᴋs ᴧ υsєʀ συᴛ σғ ᴛʜє ɢʀσυᴘ, (ᴠɪᴧ ʜᴧηᴅʟє, σʀ ʀєᴘʟʏ)
 ❍ /kickme: ᴋɪᴄᴋs ᴛʜє υsєʀ ᴡʜσ ɪssυєᴅ ᴛʜє ᴄσϻϻᴧηᴅ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
 '''
 
 
@@ -256,7 +256,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
 '''
 
 
@@ -271,7 +271,7 @@ class Helper(object):
 ❍ /pinned ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ᴘɪηηєᴅ ϻєssᴧɢє ɪη ᴛʜє ɢʀσυᴘ
 ❍ /unpin ➠ υηᴘɪηs ᴛʜє ᴄυʀʀєηᴛʟʏ ᴘɪηηєᴅ ϻєssᴧɢє
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
 '''
 
 
@@ -281,7 +281,7 @@ class Helper(object):
 **❍ /staff ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ sᴛᴧғғ ϻєϻʙєʀs
 ❍ /bots ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ ʙσᴛs ɪη ᴛʜє ɢʀσυᴘ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
 '''
 
 
@@ -293,7 +293,7 @@ class Helper(object):
 ❍ /setphoto ➠ sєᴛs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 ❍ /removephoto ➠ ʀєϻσᴠєs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
 '''
 
 
@@ -304,7 +304,7 @@ class Helper(object):
 **❍ /zombies ➠ ʀєϻσᴠєs ᴧᴄᴄ ᴅєʟєᴛєᴅ ϻєϻʙєʀs ғʀσϻ ᴛʜє ɢʀσυᴘ
 
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
 '''
 
 
@@ -321,7 +321,7 @@ class Helper(object):
 ❍ /basket [ʙᴧsᴋєᴛʙᴧʟʟ ɢᴧϻє]
 ❍ /football [ғσσᴛʙᴧʟʟ ɢᴧϻє]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
 '''
 
 
@@ -332,7 +332,7 @@ class Helper(object):
 ❍ /imposter on
 ❍ /imposter off
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
 '''
 
     HELP_23 = '''```
@@ -340,7 +340,7 @@ class Helper(object):
 
 **❍ /sg ➠ υsєʀ ηᴧϻє ᴧηᴅ υsєʀηᴧϻє ʜɪsᴛσʀʏ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
 '''
 
     HELP_24 = '''```
@@ -348,7 +348,7 @@ class Helper(object):
 
 **❍ /tr ➠ ᴄᴧη ᴛʀᴧηꜱʟᴧᴛє ϻυʟᴛɪᴘʟє ʟᴧηɢυᴧɢєs
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
 '''
 
 
@@ -364,7 +364,7 @@ class Helper(object):
 
 ❍ /stack ➠ sєᴧʀᴄʜєs ғσʀ ᴘʀσɢʀᴧϻϻɪηɢ-ʀєʟᴧᴛєᴅ ɪηғσʀϻᴧᴛɪση ση sᴛᴧᴄᴋ σᴠєʀғʟσᴡ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
 '''
 
 
@@ -375,7 +375,7 @@ class Helper(object):
 ❍ /tgm [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 ❍ /tgt [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l) **
+❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
 '''
     HELP_PROMOTION = '''
 **───────────────────────
@@ -397,28 +397,35 @@ class Helper(object):
 ʙєsᴛ ᴧηᴅ ᴄʜєᴧᴘ ɪη ᴛєʟєɢʀᴧϻ 400-500+
 ϻєϻʙєʀs ɪη σηє ᴘʀσϻσᴛɪση ɢυʀᴧηᴛєє 
 ───────────────────────
-❍ ᴄσηᴛᴧᴄᴛ - [ 𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ ](https://t.mel_HEART_BEAT_l)
+❍ ᴄσηᴛᴧᴄᴛ - [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l)
+❍ ᴄσηᴛᴧᴄᴛ - [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES)
 ───────────────────────**
 '''
     HELP_ALLBOT = '''
 **───────────────────────
-│ ᴡєʟᴄσϻє ᴛσ ˹[𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.mel_HEART_BEAT_l)˼ ʙσᴛ sᴛᴧᴛυs │
+│ ᴡєʟᴄσϻє ᴛσ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) ʙσᴛ sᴛᴧᴛυs │
 ───────────────────────
     ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
 ───────────────────────
-╭⎋ [𝚻꯭ᴀᴍᴀᴎᴎᴀ ꭙ 𝚳꯭ᴜᴤᴉᴒ](https://t.me/TAMANNA_MUSIC_BOT) : ᴧʟɪᴠє 
+
+╭⎋ [˹ 𝚻꯭ᴀᴍᴀᴎᴎᴀ ꭙ 𝚳꯭ᴜᴤᴉᴒ ˼](https://t.me/TAMANNA_MUSIC_BOT) : ᴧʟɪᴠє 
+╰⊚ υᴘᴛɪϻє : 12ʜ:38ϻ:50s | ᴄᴘυ : 5.0% | 
+       υsᴧɢє : ᴄᴏᴜɴᴛɪɴɢ.. | ᴧssɪsᴛᴧηᴛs : 01
+
+╭⎋ [вℓσѕѕσм ꭙ 𝚳꯭ᴜᴤᴉᴒ](https://t.me/BLOSSOM_MUSIC_BOTT) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:53ϻ:29s | ᴄᴘυ : 5.0% | 
-       υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
-╭⎋ [вℓσѕѕσм ꭙ ϻυsɪᴄ](https://t.me/BLOSSOM_MUSIC_BOT) : ᴧʟɪᴠє 
+       υsᴧɢє : ᴄᴏᴜɴᴛɪɴɢ.. | ᴧssɪsᴛᴧηᴛs : 01
+
+╭⎋ [𝗦𝗽𝗶𝗰𝘆 𝗠𝘂𝘀𝗶𝗰](https://t.me/SPICY_UFC_BOT) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:48ϻ:37s | ᴄᴘυ : 5.0% | 
-       υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
+       υsᴧɢє : ᴄᴏᴜɴᴛɪɴɢ.. | ᴧssɪsᴛᴧηᴛs : 01
 ───────────────────────
-⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ϻє](https://t.me/UFC_UPDATES)
+⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ϻє](https://t.me/UFC_UPDATES/18)
 ───────────────────────
-⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 20 𝙾𝙲𝚃 2024 
+⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 20 Sep 2024 
 ───────────────────────
-❍ ᴘσᴡєʀєᴅ ʙʏ ⁚ ˹ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) ˼
-─────────────────────**
+❍ ᴘσᴡєʀєᴅ ʙʏ ⁚ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES)
+───────────────────────**
 '''
     HELP_ABOUT = '''
 **───────────────────────
@@ -437,10 +444,10 @@ class Helper(object):
 ● ᴧηɪϻє ʙσᴛ ғυηᴄᴛɪσηᴧʟɪᴛʏ
 ● ᴧɪ ɪηᴛєɢʀᴧᴛɪση
 ───────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ υᴘᴅᴧᴛєs](https://t.me/l_HEART_BEAT_l)
-❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [𝚄𝙵𝙲 sυᴘᴘσʀᴛ](https://t.me/UFC_UPDATES)
-❖ ʀєᴧʟ σᴡηєʀ ➥ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l)
-❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ ϻє](https://t.me/UFC_UPDATES)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES)
+❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES)
+❖ ʀєᴧʟ σᴡηєʀ ➥ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES)
+❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ ϻє](https://t.me/l_HEART_BEAT_l)
 ───────────────────────
 ❖ ᴄʟɪᴄᴋ ση ᴛʜє ʜєʟᴩ ʙυᴛᴛση ᴛσ ɢєᴛ ɪηғσ
     ᴧʙσυᴛ ϻʏ ϻσᴅυʟєs ᴧηᴅ ᴄσϻϻᴧηᴅs...!
