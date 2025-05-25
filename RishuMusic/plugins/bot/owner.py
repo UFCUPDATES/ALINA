@@ -10,16 +10,15 @@ start_txt = """
 **
 ┌┬─────────────────⦿
 │├─────────────────╮
-│├ ᴛɢ ɴᴀᴍᴇ - ʀɪsʜᴜ sᴀɴᴀᴛᴀɴɪ
-│├ ʀᴇᴀʟ ɴᴀᴍᴇ - ʀɪsʜᴜ ʀᴀᴊᴘᴜᴛ
+│├ ᴛɢ ɴᴀᴍᴇ - 𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ
+│├ ʀᴇᴀʟ ɴᴀᴍᴇ -𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ
 │├─────────────────╯
 ├┼─────────────────⦿
-├┤~ @RishuNetwork
-├┤~ @Ur_rishu_143
-├┤~ @Vip_robotz
+├┤~ @UFC_UPDATES
+├┤~ @ll_P_U_L_lI
 ├┼─────────────────⦿
 │├─────────────────╮
-│├OWNER│ @Rishu1286
+│├OWNER│ @l_HEART_BEAT_l
 │├─────────────────╯
 └┴─────────────────⦿
 **
@@ -32,24 +31,24 @@ start_txt = """
 async def start(_, msg):
     buttons = [
         [ 
-          InlineKeyboardButton("Ｒ I Տ ᕼ ᑌ ", url=f"https://t.me/Rishu1286")
+          InlineKeyboardButton(" 𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ ", url=f"https://t.me/l_HEART_BEAT_l")
         ],
         [
-          InlineKeyboardButton("ＨＥＬＰ", url="https://t.me/rishu1286"),
-          InlineKeyboardButton("ＲＥＰＯ", url="https://github.com/RishuBot/RishuManagement"),
+          InlineKeyboardButton("ＨＥＬＰ", url="https://t.me/UFC_UPDATES"),
+          InlineKeyboardButton("ＲＥＰＯ", url="https://t.me/TAMANNA_MUSIC_BOT?start=_tgr_fBSoVjdmODhl"),
           ],
                [
-                InlineKeyboardButton(" ＮＥＴＷＯＲＫ", url=f"https://t.me/ur_rishu_143"),
+                InlineKeyboardButton(" ＮＥＴＷＯＲＫ", url=f"https://t.me/UFC_UPDATES"),
 ],
 [
-InlineKeyboardButton("ＯＦＦＩＣＩＡＬ ＢＯＴ", url=f"https://t.me/vip_music_vc_bot"),
+InlineKeyboardButton("ＯＦＦＩＣＩＡＬ ＢＯＴ", url=f"https://t.me/TAMANNA_MUSIC_BOT"),
 
         ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await msg.reply_photo(
-        photo="https://envs.sh/oKU.jpg",
+        photo="https://files.catbox.moe/kzl8vt.jpg",
         caption=start_txt,
         reply_markup=reply_markup
     )
