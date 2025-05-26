@@ -397,8 +397,8 @@ class Helper(object):
 ʙєsᴛ ᴧηᴅ ᴄʜєᴧᴘ ɪη ᴛєʟєɢʀᴧϻ 400-500+
 ϻєϻʙєʀs ɪη σηє ᴘʀσϻσᴛɪση ɢυʀᴧηᴛєє 
 ───────────────────────
-❍ ᴄσηᴛᴧᴄᴛ - [𝐇𝐄𝐀𝐑𝐓𝐁𝐄𝐀𝐓](https://t.me/l_HEART_BEAT_l)
-❍ ᴄσηᴛᴧᴄᴛ - [𝐇𝐄𝐀𝐑𝐓𝐁𝐄𝐀𝐓](https://t.me/l_HEART_BEAT_l)
+❍ ᴄσηᴛᴧᴄᴛ - [Aʟɪɴᴀ Mᴜsɪᴄ](https://t.me/l_HEART_BEAT_l)
+❍ ᴄσηᴛᴧᴄᴛ - [Aʟɪɴᴀ Mᴜsɪᴄ](https://t.me/l_HEART_BEAT_l)
 ───────────────────────**
 '''
     HELP_ALLBOT = '''
@@ -408,11 +408,11 @@ class Helper(object):
     ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
 ───────────────────────
 
-╭⎋ [𝗧𝗔𝗠𝗔𝗡𝗡𝗔 𝗠𝗨𝗦𝗜𝗖](https://t.me/TAMANNA_MUSIC_BOT) : ᴧʟɪᴠє 
+╭⎋ [ᴛᴀᴍᴀɴɴᴀ ᴍᴜꜱɪᴄ](https://t.me/TAMANNA_MUSIC_BOT) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:38ϻ:50s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 50 | ᴧssɪsᴛᴧηᴛs : 01
 
-╭⎋ [𝗕𝗟𝗢𝗦𝗦𝗢𝗠 𝗠𝗨𝗦𝗜𝗖](https://t.me/BLOSSOM_MUSIC_BOTT) : ᴧʟɪᴠє 
+╭⎋ [ʙʟᴏᴍꜱꜱᴏᴍ ᴍᴜꜱɪᴄ](https://t.me/BLOSSOM_MUSIC_BOTT) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:53ϻ:29s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 38 | ᴧssɪsᴛᴧηᴛs : 01
 
