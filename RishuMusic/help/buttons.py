@@ -63,7 +63,7 @@ class BUTTONS(object):
         ]
     PBUTTON = [
         [
-            InlineKeyboardButton("𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ", url="https://t.mel_HEART_BEAT_l")
+            InlineKeyboardButton("𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ", url="https://t.me/l_HEART_BEAT_l")
         ],
         [
             InlineKeyboardButton("⌯ ʙᴧᴄᴋ ᴛσ ʜσϻє ⌯", callback_data="settingsback_helper"),
@@ -73,7 +73,7 @@ class BUTTONS(object):
     
     ABUTTON = [
         [
-            InlineKeyboardButton("˹ sυᴘᴘσʀᴛ ˼", url="https://t.mel_HEART_BEAT_l"),
+            InlineKeyboardButton("˹ sυᴘᴘσʀᴛ ˼", url="https://t.me/l_HEART_BEAT_l"),
             InlineKeyboardButton("˹ υᴘᴅᴧᴛєs ˼", url="https://t.me/UFC_UPDATES"),
         ],
         [
