@@ -397,8 +397,8 @@ class Helper(object):
 ʙєsᴛ ᴧηᴅ ᴄʜєᴧᴘ ɪη ᴛєʟєɢʀᴧϻ 400-500+
 ϻєϻʙєʀs ɪη σηє ᴘʀσϻσᴛɪση ɢυʀᴧηᴛєє 
 ───────────────────────
-❍ ᴄσηᴛᴧᴄᴛ - [Aʟɪɴᴀ Mᴜsɪᴄ](https://t.me/l_HEART_BEAT_l)
-❍ ᴄσηᴛᴧᴄᴛ - [Aʟɪɴᴀ Mᴜsɪᴄ](https://t.me/l_HEART_BEAT_l)
+❍ ᴄσηᴛᴧᴄᴛ - [ 𝖧𝖾𝖺𝗋𝗍 𝖡𝖾𝖺𝗍 ](https://t.me/UFC_UPDATES)
+❍ ᴄσηᴛᴧᴄᴛ - [ 𝖧𝖾𝖺𝗋𝗍 𝖡𝖾𝖺𝗍 ](https://t.me/l_HEART_BEAT_l)
 ───────────────────────**
 '''
     HELP_ALLBOT = '''
