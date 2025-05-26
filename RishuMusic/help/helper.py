@@ -1,4 +1,4 @@
-# MODE BY - HEART BEAT 
+# MODE BY - RISHU SANATANI
 
 class Helper(object):
     HELP_M = '''```
@@ -33,7 +33,7 @@ class Helper(object):
 ❍ /ask ➠ ǫυєʀɪєs ᴛʜє ᴧɪ ϻσᴅєʟ ᴛσ ɢєᴛ ᴧ ʀєsᴘσηsє ᴛσ ʏσυʀ ǫυєsᴛɪση
 
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
+❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
 '''
 
 
@@ -47,7 +47,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /google ᴘʏʀσɢʀᴧϻ : ʀєᴛυʀη ᴛσᴘ 5 ʀєυsʟᴛs ```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
 '''
 
     HELP_03 = '''```
@@ -58,7 +58,7 @@ class Helper(object):
 
 ❍ /tts : [ᴛєxᴛ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
+❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
 '''
 
 
@@ -68,7 +68,7 @@ class Helper(object):
 ❍ /info : ɢєᴛ ɪηғσʀϻᴧᴛɪση ᴧʙσυᴛ ᴧ υsєʀ.
 ❍ /github <υsєʀηᴧϻє> : ɢєᴛ ɪηғσʀϻᴧᴛɪση ᴧʙσυᴛ ᴧ ɢɪᴛʜυʙ υsєʀ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
+❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
 '''
 
 
@@ -79,9 +79,9 @@ class Helper(object):
 
 ❍ /font [ᴛєxᴛ]**
 ```
-❖ єxᴧϻᴘʟє : /font Sachin Sanatani```
+❖ єxᴧϻᴘʟє : /font Silenthrx```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
 '''
 
     HELP_06 = '''```
@@ -89,7 +89,7 @@ class Helper(object):
 
 **❍ /math ➠ sσʟᴠєs ϻᴧᴛʜєϻᴧᴛɪᴄᴧʟ ᴘʀσʙʟєϻs ᴧηᴅ ǫυᴧᴛɪσηs
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
+❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
 '''
 
 
@@ -117,7 +117,7 @@ class Helper(object):
 ❍ /vctag ➠ ᴠσɪᴄє ᴄʜᴧᴛ ɪηᴠɪᴛє ᴛᴧɢ 
 ❍ /vcstop ⇴ sᴛσᴘ ᴛᴧɢ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
+❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
 '''
 
 
@@ -128,7 +128,7 @@ class Helper(object):
 ❍ /image ➠ sєᴧʀᴄʜєs ғσʀ ᴧη ɪϻᴧɢє ʙᴧsєᴅ ση ᴧ ɢɪᴠєη ᴋєʏᴡσʀᴅ.
 ❍ /upscale ➠ ʀєᴘʟʏ ᴛσ ᴧη ɪϻᴧɢє ᴛσ υᴘsᴄᴧʟє ɪᴛ ᴧηᴅ ɪϻᴘʀσᴠє ɪᴛs ǫυᴧʟɪᴛʏ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
+❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
 '''
 
 
@@ -142,7 +142,7 @@ class Helper(object):
 
 ❍ /hastag : [ᴛєxᴛ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
+❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
 '''
 
 
@@ -152,7 +152,7 @@ class Helper(object):
 **❍ /packkang ➠ ᴄʀєᴧᴛєs ᴧ ᴘᴧᴄᴋ σғ sᴛɪᴄᴋєʀs ғʀσϻ ᴧ σᴛʜєʀ ᴘᴧᴄᴋ
 ❍ /stickerid ➠ ɢєᴛs ᴛʜє sᴛɪᴄᴋєʀ ɪᴅ σғ ᴧ sᴛɪᴄᴋєʀ
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
 '''
 
 
@@ -177,7 +177,7 @@ class Helper(object):
 ❍ /boobs [ᴄʜєᴄᴋ ʏσυʀ ʙσσʙɪєs sɪᴢє]
 ❍ /dick [ᴄʜєᴄᴋ ʏσυʀ ᴅɪᴄᴋ sɪᴢє]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
+❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
 '''
 
 
@@ -189,7 +189,7 @@ class Helper(object):
 ❍ /q : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє
 ❍ /q r : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє ᴡɪᴛʜ ʀєᴘʟʏ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
+❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
 '''
 
 
@@ -201,7 +201,7 @@ class Helper(object):
 ❍ /truth : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ
 ❍ /dare : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
+❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
 '''
 
 
@@ -230,7 +230,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
+❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
 '''
 
     HELP_15 = '''```
@@ -239,7 +239,7 @@ class Helper(object):
 **❍ /kick <userhandle> : ᴋɪᴄᴋs ᴧ υsєʀ συᴛ σғ ᴛʜє ɢʀσυᴘ, (ᴠɪᴧ ʜᴧηᴅʟє, σʀ ʀєᴘʟʏ)
 ❍ /kickme: ᴋɪᴄᴋs ᴛʜє υsєʀ ᴡʜσ ɪssυєᴅ ᴛʜє ᴄσϻϻᴧηᴅ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
+❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
 '''
 
 
@@ -256,7 +256,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
 '''
 
 
@@ -271,7 +271,7 @@ class Helper(object):
 ❍ /pinned ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ᴘɪηηєᴅ ϻєssᴧɢє ɪη ᴛʜє ɢʀσυᴘ
 ❍ /unpin ➠ υηᴘɪηs ᴛʜє ᴄυʀʀєηᴛʟʏ ᴘɪηηєᴅ ϻєssᴧɢє
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
+❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
 '''
 
 
@@ -281,7 +281,7 @@ class Helper(object):
 **❍ /staff ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ sᴛᴧғғ ϻєϻʙєʀs
 ❍ /bots ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ ʙσᴛs ɪη ᴛʜє ɢʀσυᴘ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
+❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
 '''
 
 
@@ -293,7 +293,7 @@ class Helper(object):
 ❍ /setphoto ➠ sєᴛs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 ❍ /removephoto ➠ ʀєϻσᴠєs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
+❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
 '''
 
 
@@ -304,7 +304,7 @@ class Helper(object):
 **❍ /zombies ➠ ʀєϻσᴠєs ᴧᴄᴄ ᴅєʟєᴛєᴅ ϻєϻʙєʀs ғʀσϻ ᴛʜє ɢʀσυᴘ
 
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
+❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
 '''
 
 
@@ -321,7 +321,7 @@ class Helper(object):
 ❍ /basket [ʙᴧsᴋєᴛʙᴧʟʟ ɢᴧϻє]
 ❍ /football [ғσσᴛʙᴧʟʟ ɢᴧϻє]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
+❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
 '''
 
 
@@ -332,7 +332,7 @@ class Helper(object):
 ❍ /imposter on
 ❍ /imposter off
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
+❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
 '''
 
     HELP_23 = '''```
@@ -340,7 +340,7 @@ class Helper(object):
 
 **❍ /sg ➠ υsєʀ ηᴧϻє ᴧηᴅ υsєʀηᴧϻє ʜɪsᴛσʀʏ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
+❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
 '''
 
     HELP_24 = '''```
@@ -348,7 +348,7 @@ class Helper(object):
 
 **❍ /tr ➠ ᴄᴧη ᴛʀᴧηꜱʟᴧᴛє ϻυʟᴛɪᴘʟє ʟᴧηɢυᴧɢєs
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
+❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
 '''
 
 
@@ -364,7 +364,7 @@ class Helper(object):
 
 ❍ /stack ➠ sєᴧʀᴄʜєs ғσʀ ᴘʀσɢʀᴧϻϻɪηɢ-ʀєʟᴧᴛєᴅ ɪηғσʀϻᴧᴛɪση ση sᴛᴧᴄᴋ σᴠєʀғʟσᴡ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
+❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
 '''
 
 
@@ -375,7 +375,7 @@ class Helper(object):
 ❍ /tgm [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 ❍ /tgt [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) **
+❖ ϻᴧᴅє ʙʏ  ➠ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) **
 '''
     HELP_PROMOTION = '''
 **───────────────────────
@@ -397,34 +397,34 @@ class Helper(object):
 ʙєsᴛ ᴧηᴅ ᴄʜєᴧᴘ ɪη ᴛєʟєɢʀᴧϻ 400-500+
 ϻєϻʙєʀs ɪη σηє ᴘʀσϻσᴛɪση ɢυʀᴧηᴛєє 
 ───────────────────────
-❍ ᴄσηᴛᴧᴄᴛ - [ 𝖧𝖾𝖺𝗋𝗍 𝖡𝖾𝖺𝗍 ](https://t.me/UFC_UPDATES)
-❍ ᴄσηᴛᴧᴄᴛ - [ 𝖧𝖾𝖺𝗋𝗍 𝖡𝖾𝖺𝗍 ](https://t.me/l_HEART_BEAT_l)
+❍ ᴄσηᴛᴧᴄᴛ - [ Sɪʟᴇɴᴛʜʀᴀx ](https://t.me/Silenthrex)
+❍ ᴄσηᴛᴧᴄᴛ - [Sɪʟᴇɴᴛʜʀᴀx](https://t.me/Silenthrax)
 ───────────────────────**
 '''
     HELP_ALLBOT = '''
 **───────────────────────
-│ ᴡєʟᴄσϻє ᴛσ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES) ʙσᴛ sᴛᴧᴛυs │
+│ ᴡєʟᴄσϻє ᴛσ ˹[Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB)˼ ʙσᴛ sᴛᴧᴛυs │
 ───────────────────────
     ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
 ───────────────────────
 
-╭⎋ [ᴛᴀᴍᴀɴɴᴀ ᴍᴜꜱɪᴄ](https://t.me/TAMANNA_MUSIC_BOT) : ᴧʟɪᴠє 
+╭⎋ [𝐕ᴇᴇʀᴀ 𝐌ᴜꜱɪᴄ](https://t.me/VEERA_MUSIC_BOT) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:38ϻ:50s | ᴄᴘυ : 5.0% | 
-       υsᴧɢє : 50 | ᴧssɪsᴛᴧηᴛs : 01
+       υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
-╭⎋ [ʙʟᴏᴍꜱꜱᴏᴍ ᴍᴜꜱɪᴄ](https://t.me/BLOSSOM_MUSIC_BOTT) : ᴧʟɪᴠє 
+╭⎋ [𝟿𝟸.𝟽 Bɪɢ Fᴍ](https://t.me/RJ_92_MUSIC_BOT) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:53ϻ:29s | ᴄᴘυ : 5.0% | 
-       υsᴧɢє : 38 | ᴧssɪsᴛᴧηᴛs : 01
+       υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
-╭⎋ [ꜱᴩɪᴄʏ ᴍᴜꜱɪᴄ](https://t.me/SPICY_UFC_BOT) : ᴧʟɪᴠє 
+╭⎋ [˹ 𝐒ɪʏʌ 𝐌ᴜꜱɪᴄ ˼](https://t.me/SIYA_UFC_ROBOT) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:48ϻ:37s | ᴄᴘυ : 5.0% | 
-       υsᴧɢє : 35 | ᴧssɪsᴛᴧηᴛs : 01
+       υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 ───────────────────────
-⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ϻє](https://t.me/UFC_UPDATES/18)
+⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ϻє](https://t.me/Silenthrex/97)
 ───────────────────────
-⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 20 Sep 2024 
+⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 17 May 2025 
 ───────────────────────
-❍ ᴘσᴡєʀєᴅ ʙʏ ⁚ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES)
+❍ ᴘσᴡєʀєᴅ ʙʏ ⁚ ˹ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB) ˼
 ───────────────────────**
 '''
     HELP_ABOUT = '''
@@ -444,10 +444,10 @@ class Helper(object):
 ● ᴧηɪϻє ʙσᴛ ғυηᴄᴛɪσηᴧʟɪᴛʏ
 ● ᴧɪ ɪηᴛєɢʀᴧᴛɪση
 ───────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES)
-❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES)
-❖ ʀєᴧʟ σᴡηєʀ ➥ [ᴜғᴄ ᴜᴘᴅᴀᴛᴇ](https://t.me/UFC_UPDATES)
-❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ ϻє](https://t.me/l_HEART_BEAT_l)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [Bᴇsᴛɪᴇ](https://t.me/BESTIE_UNITE_CLUB)
+❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [Sɪʟᴇɴᴛʜʀᴀx](https://t.me/Silenthrex)
+❖ ʀєᴧʟ σᴡηєʀ ➥ [Sɪʟᴇɴᴛʜʀᴀx](https://t.me/SILENTHRAX)
+❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ ϻє](https://t.me/BESTIE_UNITE_CLUB)
 ───────────────────────
 ❖ ᴄʟɪᴄᴋ ση ᴛʜє ʜєʟᴩ ʙυᴛᴛση ᴛσ ɢєᴛ ɪηғσ
     ᴧʙσυᴛ ϻʏ ϻσᴅυʟєs ᴧηᴅ ᴄσϻϻᴧηᴅs...!
