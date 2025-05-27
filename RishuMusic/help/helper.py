@@ -412,7 +412,7 @@ class Helper(object):
 ╰⊚ υᴘᴛɪϻє : 12ʜ:38ϻ:50s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
-╭⎋ [ʙʟσssσϻ ϻυsɪᴄ](https://t.me/BLOSSOM_MUSIC_BOT) : ᴧʟɪᴠє 
+╭⎋ [ʙʟσssσϻ ϻυsɪᴄ](https://t.me/BLOSSOM_MUSIC_ROBOT) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:53ϻ:29s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
