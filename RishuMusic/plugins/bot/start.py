@@ -26,7 +26,7 @@ from config import BANNED_USERS
 from strings import get_string
 
 NEXIO = [
-    "https://files.catbox.moe/cbs2pr.jpg",
+    "https://files.catbox.moe/9e1ood.jpg",
 ]
 
 HIMANSHI = [
